@@ -19,7 +19,4 @@ classes like Pizza and Cheese, Olives, Mushrooms are open for extension but clos
    specific interfaces like Payment ensure no unneccessary methods .
 
 5. Dependency Inversion 
-high-level modules  depend on abstractions like ayment instead of concrete implementations.
-
----
-
+high-level modules  depend on abstractions like ayments.
